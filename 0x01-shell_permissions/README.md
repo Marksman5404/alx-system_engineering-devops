@@ -6,3 +6,4 @@ create an empty file hello
 give permission
 multiple permission
 permitting everybody
+no permissiom for owner
