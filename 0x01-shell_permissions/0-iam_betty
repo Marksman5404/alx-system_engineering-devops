@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown current_user you betty
+sudo chown 0-iam_betty you betty
