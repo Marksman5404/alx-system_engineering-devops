@@ -8,3 +8,4 @@ multiple permission
 permitting everybody
 no permissiom for owner
 setting mode 
+same permissiom 
