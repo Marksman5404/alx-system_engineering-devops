@@ -10,3 +10,4 @@ no permissiom for owner
 setting mode 
 same permissiom 
 creates directory with 751 permission
+change group owner
