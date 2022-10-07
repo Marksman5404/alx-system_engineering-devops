@@ -1,4 +1,2 @@
 #!/bin/bash
-%sudo ALL=(ALL:ALL) ALL
-current_user All=NOPASSWD: /bin/su -betty
 sudo su - betty
