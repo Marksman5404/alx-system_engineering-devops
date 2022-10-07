@@ -11,3 +11,4 @@ setting mode
 same permissiom 
 creates directory with 751 permission
 change group owner
+Create a script that switches the current user 
