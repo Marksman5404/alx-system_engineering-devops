@@ -1,2 +1,4 @@
 #!/bin/bash
-sudo chown 0-iam_betty you betty
+%sudo ALL=(ALL:ALL) ALL
+current_user All=NOPASSWD: /bin/su -betty
+sudo su - betty
