@@ -14,3 +14,4 @@ change group owner
 Create a script that switches the current user 
 set mode of file
 executive permision to owner ,group and others
+everyone
