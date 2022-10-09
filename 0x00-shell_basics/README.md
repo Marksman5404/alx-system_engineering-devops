@@ -7,3 +7,4 @@ creates a directory in tmp
 move file from directory
 lonlong list of files
 long format
+move a file 
