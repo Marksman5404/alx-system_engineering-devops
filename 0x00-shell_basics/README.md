@@ -11,3 +11,4 @@ move a file
 move a file
 remove betty
 delete directory
+list hidden and parent directory
