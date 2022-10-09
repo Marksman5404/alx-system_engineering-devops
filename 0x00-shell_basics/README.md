@@ -10,3 +10,4 @@ long format
 move a file 
 move a file
 remove betty
+delete directory
