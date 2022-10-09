@@ -9,3 +9,4 @@ lonlong list of files
 long format
 move a file 
 move a file
+remove betty
